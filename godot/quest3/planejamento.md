@@ -1,3 +1,4 @@
+1. CRONOGRAMA
 
 | DATA | ETAPA | O QUE APRESENTAR NESTA AULA | DANO MÁX. |
 | :--- | :--- | :--- | :--- |
@@ -13,3 +14,13 @@
 | **06/11** | AJUSTES FINAIS | Ajustes após a apresentação, controle testado e versão executável pronta | — |
 | **13/11** | APRESENTAÇÃO SALA | Jogo completo com controle, explicação do tema e das contribuições individuais | -0,5 |
 | **19/11** | INTEGRAÇÃO COM A ESCOLA | Apresentação do jogo para a escola. | +1,25 |
+
+2. TEMAS DOS JOGOS
+
+| TEMA | FOCO | POSSIBILIDADE DE JOGO |
+| :--- | :--- | :--- |
+| 1. COLABORAÇÃO | Cooperar para alcançar um objetivo em comum. | - |
+| 2. EMPATIA | Perceber necessidades e agir com cuidado. | - |
+| 3. AUTOESTIMA E VALORIZAÇÃO DAS DIFERENÇAS | Reconhecer qualidades e valorizar diferentes características | - |
+| 4. RECONHECIMENTO DAS EMOÇÕES | Identificar sentimentos em situações cotidianas. | - |
+
